@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+body {
+  background-color: rgb(192, 190, 190);
+  margin: 40;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  align-items: center;
+}
+.info {
+  font-size: x-large;
+}
+.my-form {
+  /* display: flex; */
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.main-logo {
+  margin-top: 20px;
+  width: 30%;
+  height: 10%;
+}
+
+.small-logo {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.my-caru {
+  height: 50%;
+  width: 40%;
+}
