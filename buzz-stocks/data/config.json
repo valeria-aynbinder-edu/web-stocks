@@ -1,0 +1,6 @@
+{
+    "url": "http://api.marketstack.com/v1/intraday?",
+    "api": "YOUR-API-HERE",
+    "interval": "24hour"
+}
+

@@ -1,0 +1,23 @@
+.date-form{
+    display: flex;
+    background-color: #f8442e;
+    padding: 1%;
+    column-gap: 2%;
+    place-items: flex-end;
+
+}
+.date-label{
+    font-size:x-large;
+    text-align: center;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+}
+
+.date-container{
+    margin:auto;
+    column-gap: 2%;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+}
